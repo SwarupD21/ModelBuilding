@@ -1,2 +1,42 @@
 # ModelBuilding
-I try to build different machine learning model from scratch.
+
+A collection of machine learning models implemented from scratch using Python and NumPy, without relying on high-level libraries like scikit-learn.  
+This repository is intended for educational purposes and aims to deepen understanding of how models work internally.
+
+## 📂 Structure
+
+Each folder contains a different model implementation with code and explanations.
+
+### 🔧 Models (to be added)
+- [x] Linear Regression
+- [ ] Logistic Regression
+- [ ] Decision Tree
+- [ ] k-Nearest Neighbors (KNN)
+- [ ] Naive Bayes
+- [ ] Support Vector Machine (SVM)
+- [ ] K-Means Clustering
+- [ ] Principal Component Analysis (PCA)
+- [ ] Neural Networks (Basic)
+
+## 🧠 Goal
+
+To understand the working principles of machine learning algorithms by:
+- Implementing each from scratch.
+- Avoiding black-box libraries.
+- Focusing on core math and code.
+
+## 📌 Requirements
+
+- Python 
+- NumPy
+- Pandas
+- Seaborn
+- Scikit-learn
+- Matplotlib 
+
+## 🚀 How to Use
+
+```bash
+git clone https://github.com/SwarupD21/ModelBuilding.git
+cd ModelBuilding/LinearRegression
+python linear_regression.py
