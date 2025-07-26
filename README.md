@@ -9,6 +9,7 @@ Each folder contains a different model implementation with code and explanations
 
 ### 🔧 Models (to be added)
 - [x] Linear Regression
+- [x] Multiple Linear Regression
 - [ ] Logistic Regression
 - [ ] Decision Tree
 - [ ] k-Nearest Neighbors (KNN)
