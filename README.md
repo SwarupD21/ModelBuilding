@@ -11,10 +11,10 @@ Each folder contains a different model implementation with code and explanations
 - [x] Linear Regression
 - [x] Multiple Linear Regression
 - [x] Logistic Regression
+- [x] Support Vector Machine (SVM)
 - [ ] Decision Tree
 - [ ] k-Nearest Neighbors (KNN)
 - [ ] Naive Bayes
-- [ ] Support Vector Machine (SVM)
 - [ ] K-Means Clustering
 - [ ] Principal Component Analysis (PCA)
 - [ ] Neural Networks (Basic)
