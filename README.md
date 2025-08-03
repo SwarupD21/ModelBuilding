@@ -12,6 +12,7 @@ Each folder contains a different model implementation with code and explanations
 - [x] Multiple Linear Regression
 - [x] Logistic Regression
 - [x] Support Vector Machine (SVM)
+- [x] Lasso Regression
 - [ ] Decision Tree
 - [ ] k-Nearest Neighbors (KNN)
 - [ ] Naive Bayes
