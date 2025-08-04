@@ -13,8 +13,8 @@ Each folder contains a different model implementation with code and explanations
 - [x] Logistic Regression
 - [x] Support Vector Machine (SVM)
 - [x] Lasso Regression
+- [x] k-Nearest Neighbors (KNN)
 - [ ] Decision Tree
-- [ ] k-Nearest Neighbors (KNN)
 - [ ] Naive Bayes
 - [ ] K-Means Clustering
 - [ ] Principal Component Analysis (PCA)
